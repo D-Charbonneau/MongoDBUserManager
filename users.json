@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "61fc09d26c43f4252f9ddacf"
+  },
+  "createdDate": {
+    "$date": "2022-02-03T16:58:58.555Z"
+  },
+  "firstName": "Testy",
+  "lastName": "Tester",
+  "email": "test@test.com",
+  "age": 50,
+  "__v": 0
+},{
+  "_id": "538fd755-b9ce-4fef-b805-5a8da4e3edc5",
+  "createdDate": {
+    "$date": "2022-02-05T17:58:55.469Z"
+  },
+  "firstName": "New",
+  "lastName": "User",
+  "email": "gm@gm",
+  "age": 20,
+  "__v": 0
+},{
+  "_id": "ac64e177-9071-4144-bc21-1b6d1a007ad7",
+  "createdDate": {
+    "$date": "2022-02-05T18:29:05.239Z"
+  },
+  "firstName": "Jacob",
+  "lastName": "Billy",
+  "email": "jb@jb.org",
+  "age": 23,
+  "__v": 0
+},{
+  "_id": "d26bb4a5-b565-4b89-905d-e86f42ff09be",
+  "createdDate": {
+    "$date": "2022-02-05T18:29:36.748Z"
+  },
+  "firstName": "Mr.",
+  "lastName": "Bob",
+  "email": "thisisnotmyemail@myemail.com",
+  "age": 48,
+  "__v": 0
+},{
+  "_id": "cf139a7c-e7f5-4bce-be7e-698ff8b84d52",
+  "createdDate": {
+    "$date": "2022-02-05T18:30:08.491Z"
+  },
+  "firstName": "Robot",
+  "lastName": "",
+  "email": "beepboop@gmail.com",
+  "age": 20,
+  "__v": 0
+},{
+  "_id": "5c4e3b3b-d5ee-4a47-9a48-e2a24f2c5297",
+  "createdDate": {
+    "$date": "2022-02-05T18:31:01.987Z"
+  },
+  "firstName": "Bruce",
+  "lastName": "Wayne",
+  "email": "brucewayne@batman.com",
+  "age": 39,
+  "__v": 0
+},{
+  "_id": "0ab221ac-8d6b-4482-9a35-6a43a4b266ae",
+  "createdDate": {
+    "$date": "2022-02-05T18:32:13.791Z"
+  },
+  "firstName": "Steve",
+  "lastName": "Works",
+  "email": "steveworks@elppa.com",
+  "age": 67,
+  "__v": 0
+},{
+  "_id": "06ce2a54-25d6-4f37-a2ef-e7a81b5a1494",
+  "createdDate": {
+    "$date": "2022-02-05T18:33:03.222Z"
+  },
+  "firstName": "Bill",
+  "lastName": "Entry",
+  "email": "billentry@tfosorcim.com",
+  "age": 66,
+  "__v": 0
+},{
+  "_id": "547527db-46df-4f8e-bc50-2ab87a13d524",
+  "createdDate": {
+    "$date": "2022-02-05T18:34:04.783Z"
+  },
+  "firstName": "Nikola",
+  "lastName": "Electric",
+  "email": "nikolaelectric@imtoooldforanemail.com",
+  "age": 70,
+  "__v": 0
+},{
+  "_id": "4f469a33-3a8b-4f21-b835-2156eb6bb2f3",
+  "createdDate": {
+    "$date": "2022-02-05T18:36:11.429Z"
+  },
+  "firstName": "FirstName",
+  "lastName": "LastName",
+  "email": "email@email.email",
+  "age": 30,
+  "__v": 0
+}]
