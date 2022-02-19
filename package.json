@@ -1,6 +1,26 @@
 {
-    "dependencies": {
-        "express": "^4.17.2",
-        "mongoose": "^6.1.9"
-    }
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.9",
+    "uuid": "^8.3.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "mongodbusermanager",
+  "description": "# Setup:",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D-Charbonneau/MongoDBUserManager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D-Charbonneau/MongoDBUserManager/issues"
+  },
+  "homepage": "https://github.com/D-Charbonneau/MongoDBUserManager#readme",
+  "devDependencies": {}
 }
